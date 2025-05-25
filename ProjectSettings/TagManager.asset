@@ -8,6 +8,17 @@ TagManager:
   - Coin
   - Heal
   - Damage
+  - Door
+  - Box
+  - Door_RTurn
+  - Collectible
+  - CardA
+  - Wire
+  - CardB
+  - Fuse
+  - FuseSlot
+  - Plank
+  - Boat
   layers:
   - Default
   - TransparentFX
