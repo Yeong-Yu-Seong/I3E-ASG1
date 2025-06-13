@@ -1,7 +1,7 @@
 /* 
 * Author: Yeong Yu Seong
 * Date: 11 June 2025
-* Description: This script is used to enable and disable error messages for Area C.
+* Description: This script is used to enable and disable error messages.
 * Credits: This code is implemented with the help of ChatGPT.
 */
 using UnityEngine;
